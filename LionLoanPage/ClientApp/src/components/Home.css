@@ -1,0 +1,19 @@
+﻿/* Home.css */
+
+.carousel-container {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 70vh; /* Adjust the height to your preference */
+}
+
+.carousel {
+	max-width: 70%; /* Adjust the carousel width to your preference */
+	margin: 0 auto; /* To center the carousel */
+}
+
+	.carousel img {
+		max-height: 200px; /* Adjust the image height to your preference */
+		width: auto;
+		margin: 0 auto; /* To center the smaller images */
+	}
